@@ -14,15 +14,14 @@ https://github.com/ritikbh193/Data-Analysis-Dashboard/blob/main/Vrinda%20Data%20
 •	Highest selling category?
 •	Percentage of Total Orders delivered
 •	Dashboard Interaction 
-•	 https://github.com/AhmedHalim160/Vrinda-Store-Project/blob/main/Screenshot%202025-02-22%20144628.png
+
 ## Process
 •	Verify data for any missing values and anomalies, and sort out the same.
 •	Made sure data is consistent and clean with respect to data type, data format and values used.
 •	Created pivot tables according to the questions asked.
 •	Merge all pivot tables into one dashboard and apply slicer to make dynamic.
-Dashboard
-https://github.com/AhmedHalim160/Vrinda-Store-Project/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx
-
+## Dashboard
+•	 https://github.com/AhmedHalim160/Vrinda-Store-Project/blob/main/Screenshot%202025-02-22%20144628.png
 Project Insight
 •	Women customers are more likely to buy products compared to men (~65%).
 •	The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
