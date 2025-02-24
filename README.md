@@ -7,8 +7,8 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 ## Questions (KPIs)
 
 
-•	Compare the sales and orders using single chart.
-•	Which month got the highest sales and orders?
+-	Compare the sales and orders using single chart.
+-	Which month got the highest sales and orders?
 •	Who purchased more - Men or Women?
 •	What are different order status in 2022?
 •	List top 10 states contributingto the sales?
@@ -28,7 +28,7 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 ## Dashboard
 
 
-•	<a herf="https://github.com/AhmedHalim160/Vrinda-Store-Project/blob/main/Screenshot%202025-02-22%20144628.png">View Dashbord</a>
+•	<a herf ="https://github.com/AhmedHalim160/Vrinda-Store-Project/blob/main/Screenshot%202025-02-22%20144628.png">View Dashbord</a>
 
 
 ## Project Insight
